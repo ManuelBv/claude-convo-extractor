@@ -19,6 +19,10 @@ archived/**/*
 *~
 .DS_Store
 
+# Claude Code settings
+.claude/*.local.json
+.claude/settings.local.json
+
 # Logs
 *.log
 npm-debug.log*
